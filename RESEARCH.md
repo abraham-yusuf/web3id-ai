@@ -79,3 +79,27 @@ This architecture treats identity as an **actor** (agent-centric, economic execu
 By combining programmable accounts, verifiable trust, and protocol-level payment
 negotiation, this architecture enables a scalable, decentralized agent economy
 designed for machine-to-machine interaction.
+
+
+## References
+
+- **LUKSO Developer Documentation**  
+  https://docs.lukso.network/
+
+- **Universal Profiles Overview**  
+  https://docs.lukso.tech/faq/onboarding/universal-profiles/
+
+- **ERC-8004: Trustless Agents (EIP)**  
+  https://eips.ethereum.org/EIPS/eip-8004
+
+- **ERC-8004 Official Best Practices**  
+  https://best-practices.8004scan.io/docs/official-specification/erc-8004-official.html
+
+- **x402 Official Website**  
+  https://www.x402.org/
+
+- **x402 Protocol Documentation**  
+  https://docs.x402.org/
+
+- **x402 SDK (Coinbase / Base)**  
+  https://github.com/coinbase/x402
